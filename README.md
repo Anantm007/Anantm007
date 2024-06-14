@@ -1,8 +1,8 @@
 ## Hi there 👋, I am Anant Mathur
-### Software Engineer @Amazon
+### Software Engineer @Google
 
 
-Skills: C++, JavaScript, Node.js, React,js/Next.js, Vue.js/Vuex, MongoDB, SQL, CSS/Bootstrap, AWS, Linux, Git
+Skills: C++, Java, Golang JavaScript, Node.js, React,js/Next.js, Vue.js/Vuex, MongoDB, SQL, CSS/Bootstrap, AWS, Linux, Git
 
 - Mail - anant.mathur007@gmail.com
 - LinkedIn- https://www.linkedin.com/in/anantm007/ 
